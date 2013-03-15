@@ -9,7 +9,7 @@ Auto build and open PDF in Preview.
 
 It is easy, just navigate to
 `Tools -> Build system -> New Build system`
-and copy
+and copy & save it.
 
 
 ### License
